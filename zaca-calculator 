@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zaca Calculator</title>
     
-    <!-- Dito nakalagay ang CSS/Design para isang gawaan na lang -->
+    
     <style>
         * {
             box-sizing: border-box;
@@ -144,7 +144,7 @@
         </div>
     </div>
 
-    <!-- Dito naman nakalagay ang JavaScript Logic para gumana ang pindutan -->
+    
     <script>
         const screen = document.getElementById('screen');
         const container = document.getElementById('screen-container');
